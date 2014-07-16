@@ -15,6 +15,12 @@ What's inside
 * HTML5 Boilerplate
 * Images from picjumbo
 
-Copyright (c) 2014, Mazhar Ahmed.
-Licensed under MIT license.
-Built with CodeKit 2 and <3 (Love).
+Copyright (c) 2014, Mazhar Ahmed.<br>
+Licensed under MIT license.<br>
+Built with CodeKit 2 and :heart:
+
+###Credits
+
+Mazhar Ahmed<br>
+Director of Enginreering at [ST Solutions International LLC](http://www.stsbd.com)<br>
+[www.mazharAhmed.me](http://mazharahmed.me)
